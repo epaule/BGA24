@@ -32,7 +32,7 @@ in input_data/
 
 
 ```
-cd /workspace
+cd /workspace/BGA24
 
 # delete output from a possible previous run if it exists
 if [ -d BRAKER3 ]
