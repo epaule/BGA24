@@ -44,6 +44,6 @@ fi
 time braker.pl --workingdir=BRAKER3 --genome=input_data/odCraCram1_SUPER1.fa.masked --bam=input_data/odCraCram1_SUPER1_RNASeq.bam \
     --prot_seq=input_data/subsampled_porifera_proteins.fa --AUGUSTUS_BIN_PATH=/usr/bin/ \
     --AUGUSTUS_SCRIPTS_PATH=/usr/share/augustus/scripts/ --threads 8 \
-    --busco_lineage=metazoa_odb10\
+    --busco_lineage=metazoa_odb10 \
     --gm_max_intergenic 10000 --skipOptimize # remember to remove both these options for real jobs!
 ```
