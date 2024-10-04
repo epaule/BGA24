@@ -2,7 +2,7 @@
 
 This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademyBGA23.org/)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/epaule/BGA24n)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/epaule/BGA24)
 
 ## Session Leader(s)
 
