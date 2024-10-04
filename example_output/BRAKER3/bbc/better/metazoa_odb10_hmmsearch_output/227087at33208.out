@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g256.t1              -            107 227087at33208        -            750     0.091    6.6   4.1   1   1   0.00011     0.097    6.6   4.1   674   699    45    70    26    90 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/227087at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/better.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/better/metazoa_odb10_hmmsearch_output/227087at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/227087at33208.hmm /workspace/BGA24/BRAKER3/bbc/better.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:18 2024
+# [ok]

@@ -1,0 +1,11 @@
+Trying to execute the following command:
+/opt/compleasm_kit/compleasm.py run -l metazoa_odb10 -a /workspace/BGA24/BRAKER3/genome.fa -t 8 -o compleasm_genome_out
+Suceeded in executing command.
+The following BUSCOs were found in the genome:
+## lineage: metazoa_odb10
+S:0.94%, 9
+D:0.00%, 0
+F:0.42%, 4
+I:0.00%, 0
+M:98.64%, 941
+N:954

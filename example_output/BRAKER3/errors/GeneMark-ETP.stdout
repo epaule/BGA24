@@ -1,0 +1,74 @@
+
+245	245	0	100.00	complete.gtf
+245	245	0	100.00	complete.gtf
+
+# from file complete.id parsed IDs: 246
+# not found in input: 1
+# done
+SUPER_1
+# from file training.list parsed IDs: 226
+# not found in input: 0
+# done
+
+1680	1435	245	85.42	p_hints_nonhc.gtf
+7982	1435	6547	17.98	r_hints_nonhc.gtf
+
+
+2198	1610	588	73.25	prothint/prothint.gff
+7982	1610	6372	20.17	r_hints_nonhc.gtf
+
+
+2198	1610	588	73.25	prothint/prothint.gff
+7982	1610	6372	20.17	r_hints_nonhc.gtf
+
+# number of transcripts in file: 908 /workspace/BGA24/BRAKER3/GeneMark-ETP/proteins.fa/genemark_supported.gtf
+# number of genes in set: 888
+# removed partial: 1
+# genes found for training: 888
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+
+2198	1610	588	73.25	prothint/prothint.gff
+7982	1610	6372	20.17	r_hints_nonhc.gtf
+
+# number of transcripts in file: 949 /workspace/BGA24/BRAKER3/GeneMark-ETP/proteins.fa/genemark_supported.gtf
+# number of genes in set: 929
+# removed partial: 1
+# genes found for training: 929
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+
+2198	1610	588	73.25	prothint/prothint.gff
+7982	1610	6372	20.17	r_hints_nonhc.gtf
+
+# number of transcripts in file: 951 /workspace/BGA24/BRAKER3/GeneMark-ETP/proteins.fa/genemark_supported.gtf
+# number of genes in set: 931
+# removed partial: 1
+# genes found for training: 931
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+# warning, skipping short intron
+
+2198	1610	588	73.25	prothint/prothint.gff
+7982	1610	6372	20.17	r_hints_nonhc.gtf
+

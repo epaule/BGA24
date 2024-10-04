@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+773_t                -            825 552949at33208        -            146   6.5e-07   25.6   0.5   1   2   1.8e-09   6.5e-07   25.6   0.5    71   135    73   138    61   147 0.84 -
+773_t                -            825 552949at33208        -            146   6.5e-07   25.6   0.5   2   2         3   1.1e+03   -4.9   1.6   113   126   295   308   287   309 0.72 -
+799_t                -           1559 552949at33208        -            146     0.019   11.1   4.9   1   1   3.8e-05     0.014   11.5   2.6     1    28   135   162   135   178 0.88 -
+732_t                -           1225 552949at33208        -            146      0.29    7.2   9.3   1   2   3.2e-05     0.012   11.8   2.5     1    28   135   162   135   178 0.88 -
+732_t                -           1225 552949at33208        -            146      0.29    7.2   9.3   2   2         1   3.8e+02   -2.9   0.1    38    63   321   346   310   359 0.69 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/552949at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/genemark.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/genemark/metazoa_odb10_hmmsearch_output/552949at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/552949at33208.hmm /workspace/BGA24/BRAKER3/bbc/genemark.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:00 2024
+# [ok]

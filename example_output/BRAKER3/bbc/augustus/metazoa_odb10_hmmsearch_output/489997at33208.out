@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g928.t1              -            683 489997at33208        -            345   9.6e-61  201.4   0.0   1   1   4.9e-60   1.2e-57  191.2   0.0    30   311   245   583   232   601 0.78 -
+g352.t1              -            842 489997at33208        -            345   5.9e-09   31.1   0.0   1   2   4.5e-05     0.011   10.5   0.0    41    83   173   215   167   247 0.74 -
+g352.t1              -            842 489997at33208        -            345   5.9e-09   31.1   0.0   2   2   2.8e-07   6.8e-05   17.8   0.0   249   290   584   625   549   641 0.84 -
+g353.t1              -            850 489997at33208        -            345   2.1e-08   29.3   0.2   1   2   3.4e-05    0.0084   10.9   0.1    41    95   183   243   177   312 0.75 -
+g353.t1              -            850 489997at33208        -            345   2.1e-08   29.3   0.2   2   2   1.5e-06   0.00037   15.3   0.0   252   290   596   634   589   656 0.88 -
+g561.t1              -            803 489997at33208        -            345   6.7e-07   24.3   0.2   1   1   8.9e-09   2.2e-06   22.7   0.2   208   322   635   748   432   759 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/489997at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/augustus.hints.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/augustus/metazoa_odb10_hmmsearch_output/489997at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/489997at33208.hmm /workspace/BGA24/BRAKER3/augustus.hints.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:14 2024
+# [ok]

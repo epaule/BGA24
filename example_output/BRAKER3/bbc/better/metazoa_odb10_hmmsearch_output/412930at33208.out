@@ -1,0 +1,18 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g1.t2                -            291 412930at33208        -            279   3.2e-18   61.5   0.8   1   1   2.9e-20     5e-18   60.8   0.5    25    94   107   176    85   181 0.92 -
+g1.t1                -            355 412930at33208        -            279   4.2e-18   61.1   0.6   1   1   4.3e-20   7.5e-18   60.3   0.5    25    94   107   176    89   181 0.93 -
+g664.t1              -            496 412930at33208        -            279     1e-11   40.2   0.6   1   1   1.7e-13   2.9e-11   38.6   0.6    26    88    14    76    10    81 0.96 -
+g695.t1              -           1436 412930at33208        -            279   3.9e-11   38.2   0.6   1   1   6.4e-13   1.1e-10   36.7   0.6    26    88    14    76    10    80 0.96 -
+g708.t1              -           1543 412930at33208        -            279   4.2e-11   38.1   0.6   1   1     7e-13   1.2e-10   36.6   0.6    26    88    14    76    10    80 0.96 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/412930at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/better.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/better/metazoa_odb10_hmmsearch_output/412930at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/412930at33208.hmm /workspace/BGA24/BRAKER3/bbc/better.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:18 2024
+# [ok]

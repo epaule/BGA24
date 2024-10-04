@@ -1,0 +1,22 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g8.t1                -            314 222489at33208        -            356     5e-35  116.5   9.4   1   4   4.9e-15   8.5e-13   43.4   0.7   129   220    11   108     3   108 0.87 -
+g8.t1                -            314 222489at33208        -            356     5e-35  116.5   9.4   2   4   9.6e-10   1.7e-07   26.0   0.2   171   213   101   142    97   146 0.85 -
+g8.t1                -            314 222489at33208        -            356     5e-35  116.5   9.4   3   4   4.9e-08   8.5e-06   20.4   0.4    48    91   146   191   138   191 0.85 -
+g8.t1                -            314 222489at33208        -            356     5e-35  116.5   9.4   4   4   3.7e-13   6.5e-11   37.2   0.0    48   163   190   310   186   313 0.86 -
+g79.t1               -           2253 222489at33208        -            356   2.4e-16   55.1   1.4   1   1   2.5e-18   4.3e-16   54.3   1.4   112   285  1694  1886  1679  1898 0.83 -
+g79.t2               -           2261 222489at33208        -            356   2.4e-16   55.1   1.4   1   1   2.5e-18   4.3e-16   54.2   1.4   112   285  1702  1894  1687  1906 0.83 -
+g249.t1              -            425 222489at33208        -            356   1.8e-09   32.4   0.0   1   1     2e-11   3.5e-09   31.5   0.0   147   247    33   134    17   148 0.73 -
+g16.t1               -            746 222489at33208        -            356   6.3e-06   20.8   0.0   1   2    0.0024      0.41    5.0   0.0   133   206   416   500   383   510 0.75 -
+g16.t1               -            746 222489at33208        -            356   6.3e-06   20.8   0.0   2   2   5.7e-06     0.001   13.6   0.0   102   181   542   621   527   686 0.77 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/222489at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/better.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/better/metazoa_odb10_hmmsearch_output/222489at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/222489at33208.hmm /workspace/BGA24/BRAKER3/bbc/better.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:18 2024
+# [ok]

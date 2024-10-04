@@ -1,0 +1,5435 @@
+---
+SUPER_1: 9566324
+---
+MSTRG.10:
+  L: 71517
+  R: 73433
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.100:
+  L: 520857
+  R: 535034
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1000:
+  L: 8007695
+  R: 8008877
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1001:
+  L: 8009215
+  R: 8013727
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1002:
+  L: 8014263
+  R: 8014661
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1003:
+  L: 8017416
+  R: 8018854
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1005:
+  L: 8042335
+  R: 8044520
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.101:
+  L: 524049
+  R: 551066
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1010:
+  L: 8066883
+  R: 8070775
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1011:
+  L: 8076530
+  R: 8079415
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1013:
+  L: 8085818
+  R: 8086264
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1014:
+  L: 8089115
+  R: 8089369
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1015:
+  L: 8090201
+  R: 8090899
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1017:
+  L: 8098421
+  R: 8098965
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1018:
+  L: 8101199
+  R: 8102165
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1019:
+  L: 8109522
+  R: 8110028
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1020:
+  L: 8110925
+  R: 8113820
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1021:
+  L: 8114131
+  R: 8131049
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1022:
+  L: 8118868
+  R: 8119002
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1023:
+  L: 8134445
+  R: 8134781
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1027:
+  L: 8175765
+  R: 8176076
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1029:
+  L: 8190170
+  R: 8190345
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.103:
+  L: 543335
+  R: 544228
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1030:
+  L: 8190426
+  R: 8190798
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1034:
+  L: 8226804
+  R: 8227176
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1037:
+  L: 8256850
+  R: 8258762
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.104:
+  L: 551252
+  R: 553393
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1045:
+  L: 8300760
+  R: 8306691
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1048:
+  L: 8317182
+  R: 8317476
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1052:
+  L: 8327436
+  R: 8328073
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1054:
+  L: 8336121
+  R: 8341632
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1056:
+  L: 8374595
+  R: 8375718
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1057:
+  L: 8375903
+  R: 8376686
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1058:
+  L: 8397834
+  R: 8398324
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.106:
+  L: 554862
+  R: 555170
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1060:
+  L: 8408554
+  R: 8409706
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1061:
+  L: 8427025
+  R: 8492242
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1062:
+  L: 8505236
+  R: 8505962
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1065:
+  L: 8529820
+  R: 8535429
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1066:
+  L: 8536330
+  R: 8546165
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.107:
+  L: 556513
+  R: 556986
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1073:
+  L: 8570790
+  R: 8571524
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1074:
+  L: 8573604
+  R: 8573741
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1078:
+  L: 8612017
+  R: 8612292
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1079:
+  L: 8617649
+  R: 8617804
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.108:
+  L: 559201
+  R: 583819
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1083:
+  L: 8638400
+  R: 8638675
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1084:
+  L: 8640127
+  R: 8641036
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1086:
+  L: 8649643
+  R: 8747654
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1087:
+  L: 8656301
+  R: 8656823
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1090:
+  L: 8701946
+  R: 8702146
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1094:
+  L: 8786572
+  R: 8786878
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1096:
+  L: 8812984
+  R: 8815303
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1097:
+  L: 8817123
+  R: 8818146
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1099:
+  L: 8843706
+  R: 8844384
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.11:
+  L: 73810
+  R: 75485
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.110:
+  L: 584317
+  R: 585441
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1100:
+  L: 8847724
+  R: 8848416
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1104:
+  L: 8863298
+  R: 8863513
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1105:
+  L: 8864622
+  R: 8866776
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1106:
+  L: 8866843
+  R: 8964245
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1108:
+  L: 8984599
+  R: 8985837
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.111:
+  L: 585932
+  R: 590082
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1112:
+  L: 8995006
+  R: 9000153
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1115:
+  L: 9048104
+  R: 9048268
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.112:
+  L: 592014
+  R: 593526
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1120:
+  L: 9074463
+  R: 9080261
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1128:
+  L: 9128598
+  R: 9128834
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1129:
+  L: 9136848
+  R: 9137464
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.113:
+  L: 608700
+  R: 614139
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1130:
+  L: 9154387
+  R: 9157069
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1132:
+  L: 9191102
+  R: 9198957
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1133:
+  L: 9202284
+  R: 9202931
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1139:
+  L: 9251344
+  R: 9251625
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1141:
+  L: 9253635
+  R: 9255655
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1145:
+  L: 9277306
+  R: 9278160
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1146:
+  L: 9290988
+  R: 9292447
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.115:
+  L: 614746
+  R: 615639
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1154:
+  L: 9333233
+  R: 9333924
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1156:
+  L: 9340081
+  R: 9340496
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1158:
+  L: 9357504
+  R: 9357650
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.116:
+  L: 620952
+  R: 623432
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1165:
+  L: 9386461
+  R: 9386666
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1167:
+  L: 9395789
+  R: 9396207
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1168:
+  L: 9401109
+  R: 9401315
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1169:
+  L: 9403633
+  R: 9404298
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.117:
+  L: 628501
+  R: 632951
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1170:
+  L: 9407946
+  R: 9408510
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1172:
+  L: 9411911
+  R: 9416076
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1173:
+  L: 9418297
+  R: 9418938
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1174:
+  L: 9424051
+  R: 9424578
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1175:
+  L: 9431699
+  R: 9436004
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1176:
+  L: 9435016
+  R: 9435237
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1177:
+  L: 9436522
+  R: 9438129
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1178:
+  L: 9439793
+  R: 9440545
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1179:
+  L: 9443275
+  R: 9445416
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.118:
+  L: 633381
+  R: 651935
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1180:
+  L: 9445591
+  R: 9449258
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1182:
+  L: 9449854
+  R: 9451711
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1183:
+  L: 9452430
+  R: 9453457
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1184:
+  L: 9453794
+  R: 9455452
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1185:
+  L: 9455647
+  R: 9459772
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1186:
+  L: 9463096
+  R: 9475861
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1187:
+  L: 9464681
+  R: 9464974
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1188:
+  L: 9476159
+  R: 9479558
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1189:
+  L: 9481056
+  R: 9481193
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.119:
+  L: 640114
+  R: 640920
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1192:
+  L: 9492487
+  R: 9492609
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1194:
+  L: 9501957
+  R: 9506192
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1195:
+  L: 9506536
+  R: 9509904
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1196:
+  L: 9510214
+  R: 9511157
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1197:
+  L: 9511825
+  R: 9516141
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1198:
+  L: 9516314
+  R: 9518649
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1199:
+  L: 9519544
+  R: 9520022
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.12:
+  L: 75568
+  R: 79200
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.120:
+  L: 642691
+  R: 642927
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1200:
+  L: 9521388
+  R: 9521932
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1201:
+  L: 9522013
+  R: 9522399
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1202:
+  L: 9523040
+  R: 9528676
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1203:
+  L: 9528808
+  R: 9531513
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1204:
+  L: 9531681
+  R: 9532894
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1205:
+  L: 9534587
+  R: 9536288
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1206:
+  L: 9536378
+  R: 9537748
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1208:
+  L: 9542391
+  R: 9543616
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.121:
+  L: 645434
+  R: 664172
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1210:
+  L: 9544171
+  R: 9544435
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.1211:
+  L: 9547476
+  R: 9547646
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.1213:
+  L: 9554371
+  R: 9554729
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.122:
+  L: 664424
+  R: 671006
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.123:
+  L: 667234
+  R: 668167
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.124:
+  L: 678264
+  R: 679097
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.125:
+  L: 683200
+  R: 690895
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.126:
+  L: 691308
+  R: 695168
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.127:
+  L: 696208
+  R: 698513
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.128:
+  L: 703355
+  R: 703908
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.129:
+  L: 708022
+  R: 724966
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.13:
+  L: 79409
+  R: 79735
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.130:
+  L: 727487
+  R: 741644
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.131:
+  L: 742064
+  R: 743799
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.132:
+  L: 744115
+  R: 745865
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.133:
+  L: 747250
+  R: 752234
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.134:
+  L: 753119
+  R: 758444
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.135:
+  L: 759966
+  R: 760503
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.136:
+  L: 765417
+  R: 766292
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.137:
+  L: 772311
+  R: 772439
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.138:
+  L: 812291
+  R: 823447
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.139:
+  L: 825681
+  R: 837901
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.14:
+  L: 83747
+  R: 85386
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.140:
+  L: 838379
+  R: 848703
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.141:
+  L: 849288
+  R: 850749
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.142:
+  L: 850911
+  R: 855335
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.143:
+  L: 855728
+  R: 856558
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.144:
+  L: 862563
+  R: 864292
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.146:
+  L: 867300
+  R: 880647
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.147:
+  L: 874857
+  R: 875327
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.148:
+  L: 881353
+  R: 883192
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.149:
+  L: 885170
+  R: 885930
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.15:
+  L: 93728
+  R: 96692
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.150:
+  L: 890012
+  R: 895755
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.151:
+  L: 887334
+  R: 887465
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.152:
+  L: 897268
+  R: 907936
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.153:
+  L: 908651
+  R: 908962
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.154:
+  L: 909285
+  R: 910075
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.156:
+  L: 914627
+  R: 915895
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.157:
+  L: 927121
+  R: 939332
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.158:
+  L: 930712
+  R: 931161
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.159:
+  L: 949637
+  R: 950062
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.16:
+  L: 99120
+  R: 99813
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.161:
+  L: 966503
+  R: 971500
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.162:
+  L: 969445
+  R: 969716
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.163:
+  L: 971704
+  R: 972514
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.164:
+  L: 981989
+  R: 983151
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.165:
+  L: 986601
+  R: 988451
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.166:
+  L: 989414
+  R: 992157
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.167:
+  L: 995390
+  R: 995809
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.168:
+  L: 997207
+  R: 999053
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.17:
+  L: 101373
+  R: 104211
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.170:
+  L: 1000726
+  R: 1003669
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.171:
+  L: 1005335
+  R: 1005610
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.172:
+  L: 1006126
+  R: 1011123
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.173:
+  L: 1011492
+  R: 1019888
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.175:
+  L: 1021949
+  R: 1025864
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.176:
+  L: 1026274
+  R: 1028032
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.177:
+  L: 1028615
+  R: 1030232
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.178:
+  L: 1030597
+  R: 1031373
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.179:
+  L: 1032016
+  R: 1032586
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.18:
+  L: 104555
+  R: 110997
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.180:
+  L: 1032806
+  R: 1032970
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.181:
+  L: 1034715
+  R: 1035229
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.182:
+  L: 1040256
+  R: 1041099
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.183:
+  L: 1041536
+  R: 1044167
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.184:
+  L: 1044930
+  R: 1045607
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.185:
+  L: 1047228
+  R: 1062646
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.186:
+  L: 1072031
+  R: 1073007
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.187:
+  L: 1073911
+  R: 1078933
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.188:
+  L: 1096637
+  R: 1096933
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.189:
+  L: 1130702
+  R: 1133945
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.19:
+  L: 111841
+  R: 117813
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.190:
+  L: 1134993
+  R: 1135320
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.191:
+  L: 1143713
+  R: 1144324
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.195:
+  L: 1159529
+  R: 1159666
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.196:
+  L: 1163632
+  R: 1164781
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.197:
+  L: 1166804
+  R: 1172371
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.198:
+  L: 1169050
+  R: 1169205
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.199:
+  L: 1174318
+  R: 1185023
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.20:
+  L: 118044
+  R: 125206
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.200:
+  L: 1177014
+  R: 1177223
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.201:
+  L: 1185736
+  R: 1201984
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.202:
+  L: 1206951
+  R: 1213941
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.203:
+  L: 1214343
+  R: 1217773
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.204:
+  L: 1217952
+  R: 1231722
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.205:
+  L: 1236532
+  R: 1236654
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.209:
+  L: 1250926
+  R: 1253433
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.21:
+  L: 128435
+  R: 135417
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.210:
+  L: 1253587
+  R: 1267626
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.211:
+  L: 1268912
+  R: 1273894
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.212:
+  L: 1274764
+  R: 1298527
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.215:
+  L: 1287600
+  R: 1287728
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.217:
+  L: 1299967
+  R: 1305594
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.218:
+  L: 1312945
+  R: 1399658
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.22:
+  L: 136616
+  R: 141078
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.220:
+  L: 1393688
+  R: 1393840
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.221:
+  L: 1400107
+  R: 1400796
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.222:
+  L: 1403661
+  R: 1411396
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.223:
+  L: 1416257
+  R: 1416986
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.224:
+  L: 1418006
+  R: 1418607
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.226:
+  L: 1420607
+  R: 1421427
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.227:
+  L: 1421826
+  R: 1424632
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.228:
+  L: 1425042
+  R: 1429484
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.229:
+  L: 1430190
+  R: 1437223
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.23:
+  L: 142437
+  R: 149338
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.230:
+  L: 1443632
+  R: 1456676
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.232:
+  L: 1482171
+  R: 1495916
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.233:
+  L: 1482592
+  R: 1483391
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.234:
+  L: 1497768
+  R: 1506290
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.236:
+  L: 1508743
+  R: 1509937
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.238:
+  L: 1512142
+  R: 1513797
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.24:
+  L: 149893
+  R: 155314
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.240:
+  L: 1535658
+  R: 1537647
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.242:
+  L: 1555894
+  R: 1562821
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.243:
+  L: 1563286
+  R: 1564416
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.244:
+  L: 1571892
+  R: 1611837
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.245:
+  L: 1616847
+  R: 1621457
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.246:
+  L: 1648103
+  R: 1652854
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.248:
+  L: 1656045
+  R: 1656353
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.249:
+  L: 1659918
+  R: 1667951
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.25:
+  L: 156820
+  R: 162938
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.250:
+  L: 1675948
+  R: 1677090
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.251:
+  L: 1677358
+  R: 1677741
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.252:
+  L: 1685334
+  R: 1709718
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.253:
+  L: 1702972
+  R: 1703793
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.254:
+  L: 1714166
+  R: 1714405
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.255:
+  L: 1715915
+  R: 1717681
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.258:
+  L: 1750833
+  R: 1751210
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.26:
+  L: 163790
+  R: 167984
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.261:
+  L: 1771639
+  R: 1771824
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.264:
+  L: 1780437
+  R: 1780985
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.265:
+  L: 1782724
+  R: 1782942
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.266:
+  L: 1797876
+  R: 1798091
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.268:
+  L: 1814205
+  R: 1814841
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.269:
+  L: 1826396
+  R: 1827223
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.27:
+  L: 173879
+  R: 179281
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.270:
+  L: 1828439
+  R: 1829533
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.271:
+  L: 1829921
+  R: 1830238
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.273:
+  L: 1887314
+  R: 1893216
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.274:
+  L: 1845830
+  R: 1846477
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.275:
+  L: 1849074
+  R: 1849346
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.276:
+  L: 1853686
+  R: 1855494
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.28:
+  L: 180348
+  R: 181321
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.280:
+  L: 1896191
+  R: 1897485
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.281:
+  L: 1915058
+  R: 1916518
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.282:
+  L: 1920006
+  R: 1920884
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.284:
+  L: 1955342
+  R: 1959106
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.287:
+  L: 2005582
+  R: 2056611
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.29:
+  L: 182104
+  R: 183072
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.290:
+  L: 2022108
+  R: 2022442
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.292:
+  L: 2060209
+  R: 2060923
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.293:
+  L: 2061205
+  R: 2065956
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.294:
+  L: 2062759
+  R: 2063265
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.295:
+  L: 2087830
+  R: 2090811
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.297:
+  L: 2083690
+  R: 2084148
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.298:
+  L: 2092980
+  R: 2093741
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.30:
+  L: 183295
+  R: 184293
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.300:
+  L: 2109538
+  R: 2112578
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.301:
+  L: 2113585
+  R: 2115162
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.302:
+  L: 2120902
+  R: 2121066
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.303:
+  L: 2126401
+  R: 2128165
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.304:
+  L: 2134019
+  R: 2143502
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.305:
+  L: 2145230
+  R: 2145412
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.306:
+  L: 2148687
+  R: 2148863
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.307:
+  L: 2150756
+  R: 2161827
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.308:
+  L: 2153027
+  R: 2153894
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.31:
+  L: 188246
+  R: 189564
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.310:
+  L: 2170339
+  R: 2175752
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.311:
+  L: 2179685
+  R: 2180231
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.312:
+  L: 2185444
+  R: 2187989
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.313:
+  L: 2189988
+  R: 2194879
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.314:
+  L: 2195317
+  R: 2196325
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.315:
+  L: 2202589
+  R: 2205827
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.316:
+  L: 2206351
+  R: 2206923
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.317:
+  L: 2207804
+  R: 2209532
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.318:
+  L: 2211248
+  R: 2212858
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.319:
+  L: 2214380
+  R: 2215489
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.32:
+  L: 196775
+  R: 197017
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.320:
+  L: 2220164
+  R: 2221212
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.321:
+  L: 2224565
+  R: 2224971
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.322:
+  L: 2227199
+  R: 2242643
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.325:
+  L: 2255643
+  R: 2272589
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.326:
+  L: 2264378
+  R: 2266835
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.327:
+  L: 2274330
+  R: 2274677
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.328:
+  L: 2278173
+  R: 2285402
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.329:
+  L: 2314844
+  R: 2317520
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.331:
+  L: 2325659
+  R: 2326511
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.332:
+  L: 2326805
+  R: 2327382
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.333:
+  L: 2327633
+  R: 2330178
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.335:
+  L: 2334355
+  R: 2340569
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.336:
+  L: 2342768
+  R: 2346059
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.337:
+  L: 2349764
+  R: 2350588
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.338:
+  L: 2357505
+  R: 2358166
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.339:
+  L: 2365286
+  R: 2366006
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.34:
+  L: 201403
+  R: 207730
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.340:
+  L: 2381566
+  R: 2383757
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.343:
+  L: 2403853
+  R: 2407622
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.344:
+  L: 2416336
+  R: 2417457
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.345:
+  L: 2417520
+  R: 2420478
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.348:
+  L: 2432612
+  R: 2433150
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.349:
+  L: 2433490
+  R: 2435401
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.35:
+  L: 208501
+  R: 210207
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.350:
+  L: 2435700
+  R: 2441224
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.352:
+  L: 2453666
+  R: 2459264
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.353:
+  L: 2459716
+  R: 2461316
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.354:
+  L: 2462337
+  R: 2498584
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.355:
+  L: 2480799
+  R: 2481626
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.356:
+  L: 2493544
+  R: 2493882
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.357:
+  L: 2499875
+  R: 2501530
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.358:
+  L: 2506727
+  R: 2520482
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.359:
+  L: 2521546
+  R: 2522158
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.36:
+  L: 211166
+  R: 217821
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.360:
+  L: 2538111
+  R: 2545551
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.362:
+  L: 2545612
+  R: 2548742
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.363:
+  L: 2550562
+  R: 2551644
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.364:
+  L: 2555316
+  R: 2555462
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.366:
+  L: 2574664
+  R: 2575497
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.367:
+  L: 2588467
+  R: 2590506
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.368:
+  L: 2593496
+  R: 2595910
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.369:
+  L: 2596793
+  R: 2598973
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.37:
+  L: 218606
+  R: 226120
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.370:
+  L: 2600291
+  R: 2602561
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.371:
+  L: 2602896
+  R: 2663666
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.373:
+  L: 2666599
+  R: 2667828
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.374:
+  L: 2669240
+  R: 2670663
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.376:
+  L: 2673537
+  R: 2676805
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.38:
+  L: 220046
+  R: 221791
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.383:
+  L: 2696063
+  R: 2702083
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.384:
+  L: 2706062
+  R: 2708051
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.385:
+  L: 2722012
+  R: 2736338
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.386:
+  L: 2737229
+  R: 2740583
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.387:
+  L: 2746752
+  R: 2747132
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.389:
+  L: 2758666
+  R: 2762989
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.39:
+  L: 229130
+  R: 235440
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.390:
+  L: 2763769
+  R: 2777071
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.391:
+  L: 2781845
+  R: 2782138
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.392:
+  L: 2783242
+  R: 2784714
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.393:
+  L: 2785129
+  R: 2788650
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.396:
+  L: 2811749
+  R: 2812873
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.399:
+  L: 2820621
+  R: 2827247
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.4:
+  L: 48095
+  R: 49071
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.40:
+  L: 235938
+  R: 243071
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.400:
+  L: 2847570
+  R: 2852059
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.401:
+  L: 2857304
+  R: 2868376
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.402:
+  L: 2862163
+  R: 2863458
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.403:
+  L: 2868832
+  R: 2870315
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.407:
+  L: 2885890
+  R: 2891160
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.409:
+  L: 2896461
+  R: 2899215
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.410:
+  L: 2901504
+  R: 2901686
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.411:
+  L: 2906332
+  R: 2909945
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.412:
+  L: 2919106
+  R: 2919855
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.414:
+  L: 2925844
+  R: 2926095
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.415:
+  L: 2930964
+  R: 2931110
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.416:
+  L: 2932945
+  R: 2933238
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.417:
+  L: 2942606
+  R: 2952072
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.419:
+  L: 2957930
+  R: 2967016
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.420:
+  L: 2967423
+  R: 2979162
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.421:
+  L: 2980548
+  R: 2984071
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.422:
+  L: 2984275
+  R: 2990426
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.424:
+  L: 3001147
+  R: 3001446
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.426:
+  L: 3007411
+  R: 3048111
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.429:
+  L: 3076855
+  R: 3078567
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.43:
+  L: 248321
+  R: 249869
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.431:
+  L: 3106446
+  R: 3115628
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.432:
+  L: 3118853
+  R: 3119278
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.433:
+  L: 3129139
+  R: 3131907
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.434:
+  L: 3142565
+  R: 3144190
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.435:
+  L: 3144455
+  R: 3151048
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.436:
+  L: 3165874
+  R: 3166446
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.438:
+  L: 3176883
+  R: 3182724
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.44:
+  L: 251024
+  R: 251616
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.440:
+  L: 3184795
+  R: 3187634
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.441:
+  L: 3189669
+  R: 3192354
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.442:
+  L: 3192445
+  R: 3195760
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.444:
+  L: 3203358
+  R: 3207191
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.445:
+  L: 3211734
+  R: 3213767
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.446:
+  L: 3215923
+  R: 3224929
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.447:
+  L: 3228039
+  R: 3234988
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.448:
+  L: 3240488
+  R: 3245207
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.449:
+  L: 3249164
+  R: 3250128
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.45:
+  L: 254956
+  R: 258998
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.450:
+  L: 3254104
+  R: 3254853
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.451:
+  L: 3255105
+  R: 3255872
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.452:
+  L: 3257444
+  R: 3280519
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.454:
+  L: 3288118
+  R: 3290887
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.455:
+  L: 3291759
+  R: 3293945
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.456:
+  L: 3307531
+  R: 3307821
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.458:
+  L: 3326245
+  R: 3330977
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.459:
+  L: 3331651
+  R: 3341024
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.46:
+  L: 268272
+  R: 269612
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.460:
+  L: 3352772
+  R: 3353356
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.462:
+  L: 3379758
+  R: 3381155
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.463:
+  L: 3385709
+  R: 3395094
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.467:
+  L: 3432599
+  R: 3433447
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.468:
+  L: 3437539
+  R: 3443038
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.47:
+  L: 270290
+  R: 276436
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.473:
+  L: 3485798
+  R: 3488743
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.474:
+  L: 3490236
+  R: 3500357
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.476:
+  L: 3497919
+  R: 3498068
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.477:
+  L: 3500733
+  R: 3507541
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.478:
+  L: 3509358
+  R: 3509522
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.479:
+  L: 3515410
+  R: 3515547
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.48:
+  L: 277136
+  R: 280211
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.480:
+  L: 3516542
+  R: 3517375
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.481:
+  L: 3537988
+  R: 3553926
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.482:
+  L: 3562339
+  R: 3563018
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.488:
+  L: 3599798
+  R: 3600043
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.489:
+  L: 3604794
+  R: 3605096
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.49:
+  L: 280964
+  R: 286954
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.490:
+  L: 3607286
+  R: 3607915
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.491:
+  L: 3836728
+  R: 4006499
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.492:
+  L: 3618548
+  R: 3620290
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.494:
+  L: 3661629
+  R: 3663827
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.495:
+  L: 3674135
+  R: 3674326
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.496:
+  L: 3679920
+  R: 3680510
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.497:
+  L: 3725989
+  R: 3726189
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.498:
+  L: 3864153
+  R: 3864615
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.5:
+  L: 51185
+  R: 53707
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.50:
+  L: 287482
+  R: 288763
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.502:
+  L: 3946786
+  R: 3946989
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.503:
+  L: 3975231
+  R: 3975503
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.504:
+  L: 3986447
+  R: 3987837
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.505:
+  L: 3987934
+  R: 3988246
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.508:
+  L: 4012488
+  R: 4020311
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.51:
+  L: 289124
+  R: 295472
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.510:
+  L: 4023715
+  R: 4024261
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.512:
+  L: 4036444
+  R: 4036767
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.513:
+  L: 4037583
+  R: 4039184
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.514:
+  L: 4050837
+  R: 4052963
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.515:
+  L: 4057416
+  R: 4057547
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.52:
+  L: 302060
+  R: 305130
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.526:
+  L: 4133739
+  R: 4134296
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.527:
+  L: 4135265
+  R: 4135836
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.529:
+  L: 4143012
+  R: 4158163
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.53:
+  L: 305802
+  R: 307328
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.530:
+  L: 4197822
+  R: 4210402
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.531:
+  L: 4168230
+  R: 4168729
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.532:
+  L: 4172923
+  R: 4174901
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.533:
+  L: 4177935
+  R: 4178150
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.534:
+  L: 4182873
+  R: 4184723
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.535:
+  L: 4185856
+  R: 4188546
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.536:
+  L: 4210958
+  R: 4236002
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.538:
+  L: 4248118
+  R: 4250016
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.539:
+  L: 4251607
+  R: 4255177
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.54:
+  L: 308039
+  R: 311312
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.540:
+  L: 4255817
+  R: 4276305
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.541:
+  L: 4277401
+  R: 4294900
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.544:
+  L: 4313900
+  R: 4314451
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.545:
+  L: 4330674
+  R: 4330919
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.546:
+  L: 4332034
+  R: 4334237
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.548:
+  L: 4339261
+  R: 4352994
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.549:
+  L: 4355632
+  R: 4359330
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.55:
+  L: 311457
+  R: 313388
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.550:
+  L: 4359538
+  R: 4379219
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.551:
+  L: 4391475
+  R: 4395814
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.552:
+  L: 4405159
+  R: 4405704
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.553:
+  L: 4410631
+  R: 4410768
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.554:
+  L: 4412474
+  R: 4419471
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.555:
+  L: 4419879
+  R: 4421318
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.556:
+  L: 4429446
+  R: 4439263
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.557:
+  L: 4476671
+  R: 4476881
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.558:
+  L: 4484791
+  R: 4486675
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.559:
+  L: 4488755
+  R: 4497473
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.56:
+  L: 313452
+  R: 314870
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.560:
+  L: 4511218
+  R: 4511562
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.562:
+  L: 4520016
+  R: 4520912
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.563:
+  L: 4531984
+  R: 4532487
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.564:
+  L: 4534311
+  R: 4534625
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.565:
+  L: 4537037
+  R: 4538484
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.566:
+  L: 4557137
+  R: 4557312
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.568:
+  L: 4569521
+  R: 4598563
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.569:
+  L: 4609611
+  R: 4610237
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.57:
+  L: 316486
+  R: 317558
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.570:
+  L: 4610301
+  R: 4622463
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.571:
+  L: 4637229
+  R: 4642504
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.572:
+  L: 4649904
+  R: 4659500
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.58:
+  L: 319132
+  R: 322051
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.582:
+  L: 4704407
+  R: 4704780
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.59:
+  L: 322375
+  R: 330011
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.590:
+  L: 4735365
+  R: 4736255
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.591:
+  L: 4737935
+  R: 4746488
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.593:
+  L: 4766704
+  R: 4767600
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.594:
+  L: 4772872
+  R: 4775574
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.595:
+  L: 4777484
+  R: 4799515
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.597:
+  L: 4800337
+  R: 4802471
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.598:
+  L: 4805842
+  R: 4807023
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.599:
+  L: 4809713
+  R: 4811678
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.6:
+  L: 63010
+  R: 63614
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.60:
+  L: 331527
+  R: 331730
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.601:
+  L: 4813234
+  R: 4814964
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.602:
+  L: 4817545
+  R: 4819802
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.603:
+  L: 4820142
+  R: 4826078
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.604:
+  L: 4822113
+  R: 4832648
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.605:
+  L: 4826870
+  R: 4827270
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.606:
+  L: 4834271
+  R: 4837818
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.607:
+  L: 4843783
+  R: 4849084
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.608:
+  L: 4862114
+  R: 4878471
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.609:
+  L: 4883166
+  R: 4883732
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.61:
+  L: 336203
+  R: 337175
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.610:
+  L: 4889322
+  R: 4889983
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.611:
+  L: 4896740
+  R: 4905606
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.613:
+  L: 4916057
+  R: 4916221
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.614:
+  L: 4928164
+  R: 4929222
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.615:
+  L: 4932733
+  R: 4934633
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.62:
+  L: 337234
+  R: 338163
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.620:
+  L: 4970732
+  R: 4971829
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.621:
+  L: 4984344
+  R: 4984751
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.622:
+  L: 4991981
+  R: 4992148
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.623:
+  L: 5008474
+  R: 5008725
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.626:
+  L: 5023294
+  R: 5024802
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.628:
+  L: 5031119
+  R: 5031370
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.63:
+  L: 339296
+  R: 340785
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.630:
+  L: 5034140
+  R: 5035054
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.632:
+  L: 5040278
+  R: 5040436
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.634:
+  L: 5054424
+  R: 5055242
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.637:
+  L: 5079050
+  R: 5088819
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.64:
+  L: 340866
+  R: 341169
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.641:
+  L: 5099747
+  R: 5100040
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.642:
+  L: 5107674
+  R: 5107796
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.644:
+  L: 5119415
+  R: 5119789
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.648:
+  L: 5135883
+  R: 5137424
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.65:
+  L: 341298
+  R: 341731
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.652:
+  L: 5156507
+  R: 5197640
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.655:
+  L: 5236091
+  R: 5236651
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.656:
+  L: 5249122
+  R: 5266244
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.663:
+  L: 5297390
+  R: 5298868
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.665:
+  L: 5314781
+  R: 5314915
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.666:
+  L: 5338734
+  R: 5339084
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.668:
+  L: 5344621
+  R: 5345755
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.669:
+  L: 5346787
+  R: 5346999
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.670:
+  L: 5355156
+  R: 5355368
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.671:
+  L: 5356400
+  R: 5357268
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.673:
+  L: 5366150
+  R: 5367103
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.674:
+  L: 5374358
+  R: 5374552
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.675:
+  L: 5377390
+  R: 5377689
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.676:
+  L: 5384987
+  R: 5385849
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.683:
+  L: 5410645
+  R: 5413701
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.684:
+  L: 5413821
+  R: 5414538
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.685:
+  L: 5415184
+  R: 5415519
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.688:
+  L: 5445541
+  R: 5447086
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.69:
+  L: 353745
+  R: 354173
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.691:
+  L: 5470980
+  R: 5480967
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.692:
+  L: 5482330
+  R: 5482452
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.693:
+  L: 5501634
+  R: 5501993
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.694:
+  L: 5509837
+  R: 5509992
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.696:
+  L: 5531264
+  R: 5532121
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.698:
+  L: 5548480
+  R: 5549360
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.7:
+  L: 64201
+  R: 65738
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.70:
+  L: 355455
+  R: 357300
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.700:
+  L: 5605047
+  R: 5605433
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.701:
+  L: 5606423
+  R: 5607637
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.702:
+  L: 5608351
+  R: 5608689
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.706:
+  L: 5674083
+  R: 5674310
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.708:
+  L: 5679781
+  R: 5683498
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.709:
+  L: 5686882
+  R: 5687401
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.71:
+  L: 357933
+  R: 365002
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.711:
+  L: 5701597
+  R: 5705394
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.712:
+  L: 5715536
+  R: 5716338
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.716:
+  L: 5773516
+  R: 5773641
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.717:
+  L: 5783580
+  R: 5783873
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.72:
+  L: 366938
+  R: 370768
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.721:
+  L: 5819737
+  R: 5820477
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.726:
+  L: 5841508
+  R: 5841663
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.728:
+  L: 5865379
+  R: 5865543
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.730:
+  L: 5884361
+  R: 5884537
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.731:
+  L: 5889825
+  R: 5890229
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.734:
+  L: 5917923
+  R: 5924023
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.735:
+  L: 5920937
+  R: 5921107
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.737:
+  L: 5948507
+  R: 5948939
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.74:
+  L: 372576
+  R: 375572
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.740:
+  L: 5959076
+  R: 6001783
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.741:
+  L: 6007787
+  R: 6007993
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.742:
+  L: 6016230
+  R: 6016666
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.749:
+  L: 6033015
+  R: 6034019
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.75:
+  L: 375878
+  R: 377371
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.750:
+  L: 6038034
+  R: 6038547
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.752:
+  L: 6063888
+  R: 6064202
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.758:
+  L: 6129148
+  R: 6129933
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.759:
+  L: 6146014
+  R: 6147694
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.76:
+  L: 377510
+  R: 378250
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.761:
+  L: 6160813
+  R: 6164569
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.762:
+  L: 6166180
+  R: 6177191
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.764:
+  L: 6191961
+  R: 6194539
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.768:
+  L: 6241214
+  R: 6242803
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.77:
+  L: 378350
+  R: 378826
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.770:
+  L: 6257890
+  R: 6259691
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.771:
+  L: 6262781
+  R: 6263209
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.774:
+  L: 6266516
+  R: 6266644
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.775:
+  L: 6274978
+  R: 6275244
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.777:
+  L: 6301313
+  R: 6301604
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.778:
+  L: 6298195
+  R: 6298638
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.779:
+  L: 6306587
+  R: 6307168
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.78:
+  L: 379137
+  R: 379343
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.781:
+  L: 6322580
+  R: 6322798
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.782:
+  L: 6334872
+  R: 6335894
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.784:
+  L: 6341487
+  R: 6341618
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.785:
+  L: 6343976
+  R: 6344704
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.787:
+  L: 6355265
+  R: 6364108
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.788:
+  L: 6372291
+  R: 6372557
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.79:
+  L: 380830
+  R: 381262
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.790:
+  L: 6385374
+  R: 6385667
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.791:
+  L: 6402638
+  R: 6409174
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.792:
+  L: 6409431
+  R: 6409935
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.795:
+  L: 6438103
+  R: 6438249
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.796:
+  L: 6452332
+  R: 6453262
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.797:
+  L: 6457040
+  R: 6457198
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.798:
+  L: 6462196
+  R: 6462318
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.799:
+  L: 6466700
+  R: 6467458
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.8:
+  L: 66037
+  R: 69321
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.80:
+  L: 406068
+  R: 408248
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.801:
+  L: 6471317
+  R: 6471638
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.802:
+  L: 6472571
+  R: 6472732
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.803:
+  L: 6482177
+  R: 6482809
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.804:
+  L: 6494569
+  R: 6523298
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.805:
+  L: 6535979
+  R: 6537295
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.806:
+  L: 6542989
+  R: 6543963
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.808:
+  L: 6548735
+  R: 6550971
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.81:
+  L: 384164
+  R: 386712
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.810:
+  L: 6565627
+  R: 6567781
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.811:
+  L: 6567887
+  R: 6575177
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.812:
+  L: 6583594
+  R: 6584125
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.815:
+  L: 6606586
+  R: 6609691
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.816:
+  L: 6610832
+  R: 6611107
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.817:
+  L: 6613841
+  R: 6614125
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.82:
+  L: 387938
+  R: 388148
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.829:
+  L: 6671659
+  R: 6675207
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.83:
+  L: 409913
+  R: 410190
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.830:
+  L: 6675519
+  R: 6676239
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.831:
+  L: 6677347
+  R: 6677622
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.839:
+  L: 6711420
+  R: 6713624
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.84:
+  L: 410878
+  R: 412455
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.840:
+  L: 6730086
+  R: 6733169
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.842:
+  L: 6733257
+  R: 6735306
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.843:
+  L: 6737208
+  R: 6741139
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.845:
+  L: 6757237
+  R: 6757581
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.846:
+  L: 6760297
+  R: 6763614
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.847:
+  L: 6763744
+  R: 6771113
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.848:
+  L: 6772812
+  R: 6774758
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.849:
+  L: 6777987
+  R: 6781535
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.85:
+  L: 413594
+  R: 417554
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.850:
+  L: 6782037
+  R: 6792728
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.851:
+  L: 6800959
+  R: 6809319
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.852:
+  L: 6812822
+  R: 6815050
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.853:
+  L: 6818349
+  R: 6823113
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.854:
+  L: 6826309
+  R: 6835577
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.855:
+  L: 6836877
+  R: 6837707
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.856:
+  L: 6838635
+  R: 6839114
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.858:
+  L: 6853871
+  R: 6854502
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.86:
+  L: 418602
+  R: 420248
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.862:
+  L: 6916681
+  R: 6916866
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.863:
+  L: 6918379
+  R: 6918591
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.867:
+  L: 6948504
+  R: 6949425
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.868:
+  L: 6960685
+  R: 6963045
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.87:
+  L: 420617
+  R: 429784
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.872:
+  L: 6978825
+  R: 6979076
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.873:
+  L: 6979533
+  R: 6979769
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.875:
+  L: 7019116
+  R: 7020852
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.876:
+  L: 7027882
+  R: 7029942
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.877:
+  L: 7034926
+  R: 7035543
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.878:
+  L: 7039321
+  R: 7041405
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.879:
+  L: 7044681
+  R: 7051850
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.880:
+  L: 7046297
+  R: 7069372
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.882:
+  L: 7071446
+  R: 7073196
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.883:
+  L: 7083921
+  R: 7085604
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.884:
+  L: 7087011
+  R: 7088312
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.885:
+  L: 7109489
+  R: 7110543
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.887:
+  L: 7130991
+  R: 7135826
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.888:
+  L: 7135891
+  R: 7139407
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.89:
+  L: 433049
+  R: 433312
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.890:
+  L: 7146055
+  R: 7155410
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.891:
+  L: 7155566
+  R: 7155974
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.893:
+  L: 7163269
+  R: 7163681
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.894:
+  L: 7164975
+  R: 7165282
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.895:
+  L: 7166196
+  R: 7167601
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.896:
+  L: 7167869
+  R: 7168099
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.897:
+  L: 7168339
+  R: 7168647
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.898:
+  L: 7169356
+  R: 7200768
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.899:
+  L: 7173247
+  R: 7178844
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.9:
+  L: 70466
+  R: 71290
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.903:
+  L: 7225033
+  R: 7228620
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.906:
+  L: 7235430
+  R: 7244212
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.908:
+  L: 7245474
+  R: 7246845
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.909:
+  L: 7247692
+  R: 7249506
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.910:
+  L: 7250415
+  R: 7251139
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.912:
+  L: 7260085
+  R: 7267369
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.913:
+  L: 7267762
+  R: 7273010
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.915:
+  L: 7281465
+  R: 7282836
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.917:
+  L: 7290453
+  R: 7302103
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.918:
+  L: 7311372
+  R: 7317323
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.92:
+  L: 445853
+  R: 448249
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.921:
+  L: 7335082
+  R: 7335573
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.922:
+  L: 7345213
+  R: 7345833
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.923:
+  L: 7350792
+  R: 7352190
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.926:
+  L: 7386454
+  R: 7390477
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.927:
+  L: 7395816
+  R: 7442639
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.928:
+  L: 7424997
+  R: 7425152
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.929:
+  L: 7445818
+  R: 7481141
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.93:
+  L: 449749
+  R: 454042
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.932:
+  L: 7481373
+  R: 7486822
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.933:
+  L: 7487580
+  R: 7492870
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.934:
+  L: 7506191
+  R: 7512110
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.935:
+  L: 7513509
+  R: 7516793
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.936:
+  L: 7518949
+  R: 7519353
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.937:
+  L: 7519828
+  R: 7520182
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.94:
+  L: 454626
+  R: 460305
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.943:
+  L: 7528308
+  R: 7545050
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.945:
+  L: 7565858
+  R: 7567066
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.947:
+  L: 7572058
+  R: 7572216
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.949:
+  L: 7576370
+  R: 7577160
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.95:
+  L: 461234
+  R: 462529
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.951:
+  L: 7583249
+  R: 7584073
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.952:
+  L: 7602280
+  R: 7611110
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.953:
+  L: 7622754
+  R: 7624616
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.955:
+  L: 7630333
+  R: 7630515
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.957:
+  L: 7646276
+  R: 7648537
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.958:
+  L: 7650910
+  R: 7657983
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.959:
+  L: 7661659
+  R: 7662096
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.96:
+  L: 464216
+  R: 472775
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.960:
+  L: 7667548
+  R: 7668813
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.962:
+  L: 7687608
+  R: 7702321
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.963:
+  L: 7697702
+  R: 7698040
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.965:
+  L: 7714846
+  R: 7716185
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.967:
+  L: 7751416
+  R: 7826239
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.968:
+  L: 7785401
+  R: 7785610
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.969:
+  L: 7807028
+  R: 7810567
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.97:
+  L: 478208
+  R: 478897
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.970:
+  L: 7818732
+  R: 7821209
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.971:
+  L: 7829308
+  R: 7836188
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.972:
+  L: 7840180
+  R: 7842026
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.973:
+  L: 7842978
+  R: 7844065
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.974:
+  L: 7844267
+  R: 7846593
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.975:
+  L: 7849928
+  R: 7851061
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.977:
+  L: 7859728
+  R: 7860011
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.978:
+  L: 7862078
+  R: 7866258
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.979:
+  L: 7866487
+  R: 7868947
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.98:
+  L: 479583
+  R: 510596
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.980:
+  L: 7876428
+  R: 7879099
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.981:
+  L: 7885186
+  R: 7887747
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.983:
+  L: 7897547
+  R: 7897759
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.984:
+  L: 7900670
+  R: 7900945
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.985:
+  L: 7902567
+  R: 7902770
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.986:
+  L: 7907886
+  R: 7908920
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.987:
+  L: 7915590
+  R: 7916756
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.99:
+  L: 511094
+  R: 512328
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'
+MSTRG.990:
+  L: 7936601
+  R: 7940533
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.991:
+  L: 7944082
+  R: 7963920
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.992:
+  L: 7956477
+  R: 7957677
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.993:
+  L: 7965580
+  R: 7967861
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.996:
+  L: 7988021
+  R: 7988176
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: +
+MSTRG.999:
+  L: 7996215
+  R: 7996832
+  seq_id: SUPER_1
+  start: -1
+  stop: -1
+  strand: '-'

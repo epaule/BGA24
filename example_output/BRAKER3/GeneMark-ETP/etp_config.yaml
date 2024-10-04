@@ -1,0 +1,7 @@
+---
+RepeatMasker_path: ''
+annot_path: ''
+genome_path: /workspace/BGA24/BRAKER3/genome.fa
+protdb_path: /workspace/BGA24/BRAKER3/proteins.fa
+rnaseq_sets: [odCraCram1_SUPER1_RNASeq]
+species: Sp_1

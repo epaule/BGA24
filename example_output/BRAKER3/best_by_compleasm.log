@@ -1,0 +1,14 @@
+/opt/Augustus/scripts/getAnnoFastaFromJoingenes.py -g /workspace/BGA24/BRAKER3/genome.fa -f /workspace/BGA24/BRAKER3/GeneMark-ETP/genemark.gtf -o /workspace/BGA24/BRAKER3/bbc/genemark -s True
+/opt/compleasm_kit/compleasm.py protein -p /workspace/BGA24/BRAKER3/bbc/genemark.aa -l metazoa_odb10 -t 8 -o /workspace/BGA24/BRAKER3/bbc/genemark
+/opt/compleasm_kit/compleasm.py protein -p /workspace/BGA24/BRAKER3/braker.aa -l metazoa_odb10 -t 8 -o /workspace/BGA24/BRAKER3/bbc/braker
+/opt/compleasm_kit/compleasm.py protein -p /workspace/BGA24/BRAKER3/augustus.hints.aa -l metazoa_odb10 -t 8 -o /workspace/BGA24/BRAKER3/bbc/augustus
+BRAKER is missing 98.22 BUSCOs.
+GeneMark is missing 98.11 BUSCOs.
+Augustus is missing 98.32 BUSCOs.
+All BUSCOs present in augustus.hints.gtf and genemark.gtf will be added to the braker.gtf gene set.
+/opt/TSEBRA/bin/tsebra.py -k /workspace/BGA24/BRAKER3/braker.gtf,/workspace/BGA24/BRAKER3/bbc/augustus_genemark_keep.gtf -o /workspace/BGA24/BRAKER3/bbc/better.gtf -q
+/opt/TSEBRA/bin/rename_gtf.py --gtf /workspace/BGA24/BRAKER3/bbc/better_tmp.gtf --out /workspace/BGA24/BRAKER3/bbc/better.gtf
+/opt/Augustus/scripts/getAnnoFastaFromJoingenes.py -g /workspace/BGA24/BRAKER3/genome.fa -f /workspace/BGA24/BRAKER3/bbc/better.gtf -o /workspace/BGA24/BRAKER3/bbc/better -s True
+/opt/compleasm_kit/compleasm.py protein -p /workspace/BGA24/BRAKER3/bbc/better.aa -l metazoa_odb10 -t 8 -o /workspace/BGA24/BRAKER3/bbc/better
+The new best BRAKER gene set is /workspace/BGA24/BRAKER3/bbc/better.gtf.
+It is missing 98.11% BUSCOs.

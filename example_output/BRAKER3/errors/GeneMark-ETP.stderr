@@ -1,0 +1,24 @@
+FASTA index file /workspace/BGA24/BRAKER3/GeneMark-ETP/data/genome.softmasked.fasta.fai created.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 50.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 56.
+04-Oct-24 09:03:57 - INFO: Finding masking penalty maximizing the number of correctly predicted reliable exons in range from 0 to 0.2 with step 0.04
+04-Oct-24 09:03:57 - INFO: Running prediction with masking penalty = 0
+04-Oct-24 09:04:28 - INFO: Running prediction with masking penalty = 0.04
+04-Oct-24 09:04:59 - INFO: Running prediction with masking penalty = 0.08
+04-Oct-24 09:05:31 - INFO: Running prediction with masking penalty = 0.12
+04-Oct-24 09:06:02 - INFO: Running prediction with masking penalty = 0.16
+04-Oct-24 09:06:33 - INFO: Running prediction with masking penalty = 0.2
+04-Oct-24 09:07:04 - INFO: Finding masking penalty maximizing the number of correctly predicted reliable exons in range from 0 to 0.08 with step 0.02
+04-Oct-24 09:07:04 - INFO: Running prediction with masking penalty = 0.02
+04-Oct-24 09:07:35 - INFO: Running prediction with masking penalty = 0.06
+04-Oct-24 09:08:07 - INFO: Finding masking penalty maximizing the number of correctly predicted reliable exons in range from 0 to 0.04 with step 0.01
+04-Oct-24 09:08:07 - INFO: Running prediction with masking penalty = 0.01
+04-Oct-24 09:08:38 - INFO: Running prediction with masking penalty = 0.03
+04-Oct-24 09:09:09 - INFO: Selected baseline penalty for the maximum # of correct reliable predictions: 0.03
+04-Oct-24 09:09:09 - INFO: Masking penalty was set to 0.03
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 50.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 56.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 50.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 56.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 50.
+Use of uninitialized value in numeric eq (==) at /opt/ETP/bin/gmes/build_mod.pl line 56.

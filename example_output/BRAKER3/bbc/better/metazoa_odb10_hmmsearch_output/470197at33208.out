@@ -1,0 +1,19 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g8.t1                -            314 470197at33208        -            328   2.9e-14   48.7   8.0   1   3   2.2e-06   0.00094   14.2   0.4   114   227    18   137    10   146 0.77 -
+g8.t1                -            314 470197at33208        -            328   2.9e-14   48.7   8.0   2   3   9.8e-11   4.2e-08   28.4   2.5    80   223   112   260   102   261 0.81 -
+g8.t1                -            314 470197at33208        -            328   2.9e-14   48.7   8.0   3   3   9.2e-09     4e-06   22.0   0.1   115   191   237   311   232   313 0.87 -
+g16.t1               -            746 470197at33208        -            328     5e-09   31.5   0.7   1   3     0.016       7.1    1.4   0.0   110   131   364   385   356   388 0.85 -
+g16.t1               -            746 470197at33208        -            328     5e-09   31.5   0.7   2   3   0.00029      0.13    7.2   0.1   113   195   418   504   412   518 0.83 -
+g16.t1               -            746 470197at33208        -            328     5e-09   31.5   0.7   3   3     1e-07   4.4e-05   18.5   0.1   112   201   574   657   568   670 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/470197at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/better.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/better/metazoa_odb10_hmmsearch_output/470197at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/470197at33208.hmm /workspace/BGA24/BRAKER3/bbc/better.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:19 2024
+# [ok]

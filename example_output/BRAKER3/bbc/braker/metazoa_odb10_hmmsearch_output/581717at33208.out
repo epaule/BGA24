@@ -1,0 +1,20 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+g8.t1                -            314 581717at33208        -            249   2.5e-08   29.1   0.2   1   5    0.0028       1.2    4.0   0.0   170   212     4    47     1    58 0.83 -
+g8.t1                -            314 581717at33208        -            249   2.5e-08   29.1   0.2   2   5    0.0018      0.77    4.6   0.0   175   216    57    98    51   117 0.85 -
+g8.t1                -            314 581717at33208        -            249   2.5e-08   29.1   0.2   3   5   1.1e-05    0.0048   11.8   0.0   185   230   152   201   145   206 0.69 -
+g8.t1                -            314 581717at33208        -            249   2.5e-08   29.1   0.2   4   5       0.1        44   -1.1   0.0    75    90   207   222   201   229 0.89 -
+g8.t1                -            314 581717at33208        -            249   2.5e-08   29.1   0.2   5   5     0.023       9.7    1.0   0.0    82   136   254   310   249   313 0.65 -
+g248.t1              -            425 581717at33208        -            249   1.4e-07   26.7   0.1   1   2   2.3e-09   9.8e-07   23.9   0.0   110   212    22   133    18   152 0.83 -
+g248.t1              -            425 581717at33208        -            249   1.4e-07   26.7   0.1   2   2     0.045        19    0.0   0.1   184   245   222   281   218   285 0.63 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/581717at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/braker.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/braker/metazoa_odb10_hmmsearch_output/581717at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/581717at33208.hmm /workspace/BGA24/BRAKER3/braker.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:11 2024
+# [ok]

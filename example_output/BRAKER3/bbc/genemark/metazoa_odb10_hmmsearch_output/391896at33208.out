@@ -1,0 +1,17 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+3_t                  -            291 391896at33208        -            270   8.3e-17   57.2   0.2   1   1   5.5e-19   1.5e-16   56.4   0.2     1    69   109   181   109   210 0.89 -
+801_t                -            210 391896at33208        -            270     7e-08   28.0   0.6   1   1   3.8e-10     1e-07   27.4   0.6     2    59   114   175   113   187 0.86 -
+734_t                -            210 391896at33208        -            270     7e-08   28.0   0.6   1   1   3.8e-10     1e-07   27.4   0.6     2    59   114   175   113   187 0.86 -
+774_t                -           2372 391896at33208        -            270   1.7e-06   23.4   0.6   1   1   1.1e-08   2.9e-06   22.7   0.6     2    59   114   175   113   187 0.86 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      mb_downloads/metazoa_odb10/hmms/391896at33208.hmm
+# Target file:     /workspace/BGA24/BRAKER3/bbc/genemark.aa
+# Option settings: /opt/compleasm_kit/hmmsearch --domtblout /workspace/BGA24/BRAKER3/bbc/genemark/metazoa_odb10_hmmsearch_output/391896at33208.out --cpu 1 mb_downloads/metazoa_odb10/hmms/391896at33208.hmm /workspace/BGA24/BRAKER3/bbc/genemark.aa 
+# Current dir:     /workspace/BGA24/BRAKER3
+# Date:            Fri Oct  4 09:46:02 2024
+# [ok]
