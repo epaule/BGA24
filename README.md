@@ -29,16 +29,10 @@ in input_data/
 
 ### BRAKER3
 
-
+run BRAKER3 with proteins + RNASeq
 
 ```
 cd /workspace/BGA24
-
-# delete output from a possible previous run if it exists
-if [ -d BRAKER3 ]
-then
-    rm -rf BRAKER3
-fi
 
 # run BRAKER3
 time braker.pl --workingdir=BRAKER3 --genome=input_data/odCraCram1_SUPER1.fa.masked --bam=input_data/odCraCram1_SUPER1_RNASeq.bam \
@@ -47,3 +41,4 @@ time braker.pl --workingdir=BRAKER3 --genome=input_data/odCraCram1_SUPER1.fa.mas
     --busco_lineage=metazoa_odb10 \
     --gm_max_intergenic 10000 --skipOptimize # remember to remove both these options for real jobs!
 ```
+it should take ~30mins with 8 cores. There are precalculated files in example_output/
