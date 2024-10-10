@@ -40,3 +40,15 @@ time braker.pl --workingdir=BRAKER3 --genome=input_data/odCraCram1_SUPER1.fa.mas
     --gm_max_intergenic 10000 --skipOptimize # remember to remove both these options for real jobs!
 ```
 it should take ~30mins with 8 cores. There are precalculated files in example_output/
+
+# create an UCSC assembly hub
+```
+time make_hub.py -e my@email.com \
+    --genome /workspace/BGA24/BRAKER/odCraCram1_SUPER1.fa.masked --long_label "Chromosome 1 of the Crambe crambe genome" \
+    --short_label odCraCra1_1  --bam /workshop/BGA24/BRAKER/VARUS.bam --threads 8 \
+    --latin_name "Crambe crambe" \
+    --assembly_version "artifically split custom assembly" \
+    --hints /workspace/BGA24/BRAKER3/hintsfile.gff \
+    --gene_track /workspace/BGA24/BRAKER3/braker.gtf BRAKER3
+```
+... which currently breaks, due to an incompatible gitpod library. So we will use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt instead.
